@@ -1,5 +1,6 @@
 /**
  * 1. npm create vite@latest
  *    framework: React
- *    varient: Typescript
+ *    varient: Typescrip
+ * 2. npm install
  */
